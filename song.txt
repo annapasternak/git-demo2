@@ -8,3 +8,5 @@ szosta linia tekstu
 siodma linia tekstu
 
 ostatnia linia tekstu
+
+jednak ta jest ostatnia
