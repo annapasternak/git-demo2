@@ -6,3 +6,5 @@ czwarta linia tekstu
 
 szosta linia tekstu
 siodma linia tekstu
+
+ostatnia linia tekstu
