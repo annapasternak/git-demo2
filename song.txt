@@ -10,3 +10,4 @@ siodma linia tekstu
 ostatnia linia tekstu
 
 jednak ta jest ostatnia
+a jednak jeszcze jedna
