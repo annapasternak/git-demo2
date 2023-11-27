@@ -2,3 +2,7 @@ pierwsza linia tekstu
 druga linia tekstu
 trzecia linia tekstu
 czwarta linia tekstu
+
+
+szosta linia tekstu
+siodma linia tekstu
